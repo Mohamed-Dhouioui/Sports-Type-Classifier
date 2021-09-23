@@ -23,7 +23,7 @@ Following are the types of sports over which we are trying to classifying:
 -   Fencing 
 -   Basketball
 
-![Sports Type](https://github.com/anubhavmaity/Sports-Type-Classifier/blob/master/readme_images/sports.png)
+![Sports Type](https://github.com/Mohamed-Dhouioui/Sports-Type-Classifier/blob/master/readme_images/sports.png)
 
 
 ### Data Distribution
@@ -46,11 +46,11 @@ The following data augmentation has been applied to increase the no of images in
 3.  Zooming
 4.  Warping
 
-![Data Augmentations](https://github.com/anubhavmaity/Sports-Type-Classifier/blob/master/readme_images/sports_data_aug.png)
+![Data Augmentations](https://github.com/Mohamed-Dhouioui/Sports-Type-Classifier/blob/master/readme_images/sports_data_aug.png)
 
 
 ### Confusion Matrix
-![Confusion matrix](https://github.com/anubhavmaity/Sports-Type-Classifier/blob/master/readme_images/sports_confusion_matrix.png)
+![Confusion matrix](https://github.com/Mohamed-Dhouioui/Sports-Type-Classifier/blob/master/readme_images/sports_confusion_matrix.png)
 
 Pair of confused categories with minimum value of 2
 
@@ -82,22 +82,22 @@ Pair of confused categories with minimum value of 2
 ### Sample Images from the confused categories:
 For some images you can see the prediction is correct but the manual labelling was done wrong. This shows the CNN are less susceptible to human mistakes.
 
-![Sample Images](https://github.com/anubhavmaity/Sports-Type-Classifier/blob/master/readme_images/si_sports.png)
+![Sample Images](https://github.com/Mohamed-Dhouioui/Sports-Type-Classifier/blob/master/readme_images/si_sports.png)
 
 
 ### Accuracy
 The accuracy obtained is 97%
 
-![Accuracy](https://github.com/anubhavmaity/Sports-Type-Classifier/blob/master/readme_images/acc_sports.png)
+![Accuracy](https://github.com/Mohamed-Dhouioui/Sports-Type-Classifier/blob/master/readme_images/acc_sports.png)
 
 
 ### Heatmap
 
 Original Image
 
-![Original](https://github.com/anubhavmaity/Sports-Type-Classifier/blob/master/readme_images/cric.png)
+![Original](https://github.com/Mohamed-Dhouioui/Sports-Type-Classifier/blob/master/readme_images/cric.png)
 
 After Heatmap
 
-![Heatmap](https://github.com/anubhavmaity/Sports-Type-Classifier/blob/master/readme_images/heat_cric.png)
+![Heatmap](https://github.com/Mohamed-Dhouioui/Sports-Type-Classifier/blob/master/readme_images/heat_cric.png)
 
